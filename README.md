@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Herola007
-- 👀 I’m interested in product designing 
-- 🌱 I’m currently learning product designing 
-- 💞️ I’m looking to collaborate on product designing 
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning Data Analysis 
+- 💞️ I’m looking to collaborate on python and postgres project 
 - 📫 How to reach me alebiosuonaolapo22@gmail.com
 
 
