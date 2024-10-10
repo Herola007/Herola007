@@ -29,7 +29,7 @@
 ### 🚀 Let's Connect
 Feel free to reach out if you'd like to collaborate, or if you're interested in any of my projects! I'm always excited to discuss new ideas and opportunities.
 
-- 📫 How to reach me:
+📫 How to reach me:
 - **Email**:[alebiosuonaolapo22@gmail.com](mailto:alebiosuonaolapo22@gmail.com)
 - **LinkedIn**:[LinkedIn Profile](https://www.linkedin.com/in/onaolamipo-alebiosu)
 
