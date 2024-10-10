@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Alebiosu Onaolamipo
-- ⭐ Data/Business Analyst || Statistician || Power BI Euthusiast || Excel Expert || Database Administrator (PostgreSQL) || Python Tyro
+⭐ Data/Business Analyst || Statistician || Power BI Euthusiast || Excel Expert || Database Administrator (PostgreSQL) || Python Tyro
 
-- 👀 Welcome to my GitHub! I'm a junior data/business analyst with a passion for transforming raw data into actionable insights. My expertise spans across the Microsoft Power Platform with a focus on Power BI and Power Query, alongside advanced skills in Excel and proficiency in SQL (PostgreSQL). I also use Python to enhance my data analysis and automation capabilities.
+👀 Welcome to my GitHub! I'm a junior data/business analyst with a passion for transforming raw data into actionable insights. My expertise spans across the Microsoft Power Platform with a focus on Power BI and Power Query, alongside advanced skills in Excel and proficiency in SQL (PostgreSQL). I also use Python to enhance my data analysis and automation capabilities.
 
 #### 🔧 Skills & Expertise
 - **Power BI**: Building interactive dashboards and reports that are not only stunning but, more importantly, help both large organizations and SMEs make informed, data-driven decisions with confidence. Experienced in:
