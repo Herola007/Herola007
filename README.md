@@ -3,7 +3,7 @@
 
 👀 Welcome! I’m a data/business analyst driven by the challenge of transforming raw data into valuable insights. My skill set covers the Microsoft Power Platform, with a focus on Power BI, alongside advanced Excel techniques, PostgreSQL database management, and Python for data manipulation. Through my work, I empower businesses to make informed decisions by designing impactful dashboards, automating workflows, and executing complex data analysis. I’m passionate about leveraging data to drive results and always open to new ideas and collaborations.
 
-#### 🔧 Skills
+### 🔧Skills
 - **Power BI**: Creating interactive dashboards using DAX, data modeling, and Power Query.
 
 - **Advanced Excel**: Master of pivot tables, VBA, and dynamic dashboards.
