@@ -1,30 +1,16 @@
 ## 👋 Hi, I'm Alebiosu Onaolamipo
-⭐ Data/Business Analyst || Statistician || Power BI Euthusiast || Excel Expert || Database Administrator (PostgreSQL) || Python Tyro
+⭐ Data/Business Analyst || Statistician || Power BI Euthusiast || Excel Expert || PostgreSQL DBA|| Python Tyro
 
-👀 Welcome to my GitHub! I'm a junior data/business analyst with a passion for transforming raw data into actionable insights. My expertise spans across the Microsoft Power Platform with a focus on Power BI and Power Query, alongside advanced skills in Excel and proficiency in SQL (PostgreSQL). I also use Python to enhance my data analysis and automation capabilities.
+👀 Welcome! I’m a data/business analyst driven by the challenge of transforming raw data into valuable insights. My skill set covers the Microsoft Power Platform, with a focus on Power BI, alongside advanced Excel techniques, PostgreSQL database management, and Python for data manipulation. Through my work, I empower businesses to make informed decisions by designing impactful dashboards, automating workflows, and executing complex data analysis. I’m passionate about leveraging data to drive results and always open to new ideas and collaborations.
 
-#### 🔧 Skills & Expertise
-- **Power BI**: Building interactive dashboards and reports that are not only stunning but, more importantly, help both large organizations and SMEs make informed, data-driven decisions with confidence. Experienced in:
-  - DAX functions for creating advanced measures and KPIs.
-  - Data modeling for efficient reporting.
-  - Power BI Service for sharing and collaboration.
- 
-- **Power Query**: Efficiently cleaning, transforming, and preparing data for analysis. Automating ETL processes for seamless data integration, and leveraging its web scraping capabilities to extract data from websites for deeper analysis and reporting.
+#### 🔧 Skills
+- **Power BI**: Creating interactive dashboards using DAX, data modeling, and Power Query.
 
-- **Advanced Excel**: Proficient in complex functions, pivot tables, VBA, and data visualization. Skilled at:
-  - Building dynamic dashboards.
-  - Creating automated reports.
-  - Analyzing large datasets.
+- **Advanced Excel**: Master of pivot tables, VBA, and dynamic dashboards.
  
-- **SQL (PostgreSQL)**: Writing optimized queries to extract, manipulate, and manage data from relational databases. Experienced in:
-  - Data extraction and transformation for reporting.
-  - Complex joins, subqueries, and CTEs for in-depth analysis.
-  - Database optimization and indexing for improved performance.
+- **SQL (PostgreSQL)**: Advanced data extraction and transformation.
  
-- **Python**: Making use of Python for:
-  - Data cleaning and manipulation (Pandas, NumPy).
-  - Simple automation tasks.
-  - Enhancing analysis with lightweight scripting.
+- **Python**: Data cleaning (Pandas) and light automation.
  
 ### 🚀 Let's Connect
 Feel free to reach out if you'd like to collaborate, or if you're interested in any of my projects! I'm always excited to discuss new ideas and opportunities.
