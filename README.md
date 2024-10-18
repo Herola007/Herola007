@@ -17,7 +17,7 @@ Feel free to reach out if you'd like to collaborate, or if you're interested in 
 
 📫 How to reach me:
 - **Email**:[alebiosuonaolapo22@gmail.com](mailto:alebiosuonaolapo22@gmail.com)
-- **LinkedIn**:[LinkedIn Profile](https://www.linkedin.com/in/onaolamipo-alebiosu)
+- **LinkedIn**:[Onaolamipo A.](https://www.linkedin.com/in/onaolamipo-alebiosu)
 
 
 <!---
